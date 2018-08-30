@@ -1,1 +1,1 @@
-# slither.io
+# slither
